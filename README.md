@@ -31,3 +31,4 @@ screenshots
 https://github.com/SelinShahi/Bookmanage/blob/main/screenshots/Screenshot%202025-08-21%20222723.png?raw=true
 https://github.com/SelinShahi/Bookmanage/blob/main/screenshots/Screenshot%202025-08-21%20222823.png?raw=true
 https://github.com/SelinShahi/Bookmanage/blob/main/screenshots/Screenshot%202025-08-21%20222928.png?raw=true
+https://github.com/SelinShahi/Bookmanage/blob/main/screenshots/Screenshot%202025-08-21%20223114.png?raw=true
