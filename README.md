@@ -27,4 +27,5 @@ python main.py
 Author 👩‍💻 
 Selin Shahi Computer Science Student | Python Developer | Aspiring International Scholar
 
-
+screenshots
+https://github.com/SelinShahi/Bookmanage/blob/main/screenshots/Screenshot%202025-08-21%20222723.png?raw=true
