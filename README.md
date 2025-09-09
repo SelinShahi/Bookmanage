@@ -27,6 +27,11 @@ python main.py
 Author 👩‍💻 
 Selin Shahi Computer Science Student | Python Developer | Aspiring International Scholar
 
+My Blog Article📚 
+I have written a detailed article about why I chose Python as my first programming language and how I built this Library Management System.  
+👉 [Read the article here](https://selinshahi.wordpress.com/2025/09/08/why-did-i-choose-python-as-my-first-programming/)
+
+
 screenshots
 https://github.com/SelinShahi/Bookmanage/blob/main/screenshots/Screenshot%202025-08-21%20222723.png?raw=true
 https://github.com/SelinShahi/Bookmanage/blob/main/screenshots/Screenshot%202025-08-21%20222823.png?raw=true
